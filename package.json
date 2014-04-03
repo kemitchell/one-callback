@@ -1,6 +1,6 @@
 {
   "name": "one-callback",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Ensures that a function is only called once.",
   "main": "index.js",
   "directories": {

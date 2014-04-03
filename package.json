@@ -1,0 +1,25 @@
+{
+  "name": "one-callback",
+  "version": "0.0.0",
+  "description": "Ensures that a function is only called once.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha -R spec -u tdd test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tommymessbauer/one-callback.git"
+  },
+  "author": "tommymessbauer",
+  "license": "MMIT",
+  "bugs": {
+    "url": "https://github.com/tommymessbauer/one-callback/issues"
+  },
+  "homepage": "https://github.com/tommymessbauer/one-callback",
+  "devDependencies": {
+    "mocha": "~1.18.2"
+  }
+}
